@@ -228,6 +228,10 @@ namespace projectis
             {
                 Console.WriteLine(checkspace()); // check white space
             }
+            else
+            {
+                Console.WriteLine("Nope :)");
+            }
             bar(30);
             // reload
             Console.Write("Enter để tiếp tục");
